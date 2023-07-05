@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Viola
 - 👀 I’m interested in anything that intrigues me
-- 🌱 I’m currently learning Javascript,Node.js,Python...
+- 🌱 I’m currently learning a few things...
 - 📫 How to reach me : viola.licata@studenti.unimi.it
 
 <!---
