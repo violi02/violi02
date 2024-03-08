@@ -1,6 +1,4 @@
 - 👋 Ciao, sono Viola
-- 👀 Sono interessata a tutto ciò che mi incuriosisce, ora in particolare in digital foresics
-- 🌱 Attualmente sto imparando java
 - 📫 Come contattarmi : viola.licata@studenti.unimi.it
 
 <!---
