@@ -1,7 +1,6 @@
 - 👋 Hi, I'm Viola.
 - Graduated in Computer Science at @UNIMI
 - Currently studying AI&Robotics at @Sapienza
-- Member of AIxIA, with a special curiosity in Robotics
 - 📫How to contact me : violicata02@gmail.com
 
 <!---
